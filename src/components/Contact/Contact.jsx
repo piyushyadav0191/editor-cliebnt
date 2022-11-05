@@ -9,7 +9,7 @@ const Contact = () => {
 		<div id='form'>
 		<article className="pa4 black-80mw5 mw7-ns center bg-light-gray pa3 ph5-ns">
   <form action="https://formforsite.com/send/cGl5dXNoeWFkYXYwMTkxQGdtYWlsLmNvbQ" method="POST" acceptCharset="utf-8">
-	<input name="_success-page-redirect" type="hidden" value="http://localhost:3000" />
+	<input name="_success-page-redirect" type="hidden" value="https://codewithus.vercel.app/" />
     <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
       <legend className="ph0 mh0 fw6 clip">Sign Up</legend>
       <div className="mt3">
